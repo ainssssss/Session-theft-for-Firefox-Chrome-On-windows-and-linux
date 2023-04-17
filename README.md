@@ -12,7 +12,7 @@ Once the sessions are obtained they are uploaded to mega so that the attacker ca
 
 
 ## Demo 
-[![demo video](https://www.dsecctv.com/images/Demo%20clip%20icon%20md.png)](https://youtu.be/iHXWl-XrTr0 "Stealer Demo")
+[![demo video](https://www.dsecctv.com/images/Demo%20clip%20icon%20md.png)](https://www.youtube.com/watch?v=vQ8_pBteLfM "Stealer Demo")
 
 
 ## ¿How to configure the Stealer?
