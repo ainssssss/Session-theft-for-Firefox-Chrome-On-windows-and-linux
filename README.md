@@ -1,4 +1,4 @@
-# Session-Stealer-Firefox-Chrome-Windows-
+#  Session-theft-for-Firefox-Chrome-On-windows-and-linux
 
 This project is made for educational purposes and the creator is not responsible for the uses of the application.
 
