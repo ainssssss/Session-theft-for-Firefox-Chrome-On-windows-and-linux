@@ -133,12 +133,12 @@ def LoadYoutubeSesionCookies(yt_cookies):
     time.sleep(1)
     driver.refresh()
 
-def LoadTwitterSesionCookies(twitter_cookies):
+def LoadInstagramSesionCookies(instagram_cookies):
     driver = webdriver.Firefox()
-    driver.get("https://www.twitter.com/")
+    driver.get("https://www.instagram.com/")
     time.sleep(3)
     driver.delete_all_cookies()
-    for cookie in twitter_cookies:
+    for cookie in instagram_cookies:
         driver.add_cookie(cookie)
     time.sleep(1)
     driver.refresh()
